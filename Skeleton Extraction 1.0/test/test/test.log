@@ -1,0 +1,24 @@
+﻿  main.cpp
+e:\skeleton extraction 1.0\test\test\solution\tool.h(473): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  e:\skeleton extraction 1.0\test\test\solution\tool.h(460): note: 编译 类 模板 成员函数 "void MeshLib::CTool<MeshLib::CTMesh>::filtrate_Vertex(void)" 时
+  e:\skeleton extraction 1.0\test\test\main.cpp(21): note: 参见对正在编译的函数 模板 实例化“void MeshLib::CTool<MeshLib::CTMesh>::filtrate_Vertex(void)”的引用
+  e:\skeleton extraction 1.0\test\test\main.cpp(12): note: 参见对正在编译的 类 模板 实例化 "MeshLib::CTool<MeshLib::CTMesh>" 的引用
+e:\skeleton extraction 1.0\test\test\solution\tool.h(604): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  e:\skeleton extraction 1.0\test\test\solution\tool.h(578): note: 编译 类 模板 成员函数 "void MeshLib::CTool<MeshLib::CTMesh>::read_E(const char *)" 时
+  e:\skeleton extraction 1.0\test\test\solution\tool.h(550): note: 参见对正在编译的函数 模板 实例化“void MeshLib::CTool<MeshLib::CTMesh>::read_E(const char *)”的引用
+  e:\skeleton extraction 1.0\test\test\solution\tool.h(80): note: 编译 类 模板 成员函数 "MeshLib::CTool<MeshLib::CTMesh>::CTool(M *)" 时
+          with
+          [
+              M=MeshLib::CTMesh
+          ]
+  e:\skeleton extraction 1.0\test\test\main.cpp(12): note: 参见对正在编译的函数 模板 实例化“MeshLib::CTool<MeshLib::CTMesh>::CTool(M *)”的引用
+          with
+          [
+              M=MeshLib::CTMesh
+          ]
+  正在生成代码
+  27 of 1479 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  test.vcxproj -> E:\Skeleton Extraction 1.0\test\test\../bin/test.exe

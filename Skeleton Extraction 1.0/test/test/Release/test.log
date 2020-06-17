@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\shawnzhengxp\desktop\test\thelibs\meshlib\core\mesh\basemesh.h(846): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+c:\users\shawnzhengxp\desktop\test\thelibs\meshlib\core\mesh\basemesh.h(1166): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+c:\users\shawnzhengxp\desktop\test\thelibs\meshlib\core\mesh\basemesh.h(1209): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+c:\users\shawnzhengxp\desktop\test\thelibs\meshlib\core\mesh\basemesh.h(1415): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+c:\users\shawnzhengxp\desktop\test\thelibs\meshlib\core\mesh\basemesh.h(1519): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+c:\users\shawnzhengxp\desktop\test\thelibs\meshlib\core\mesh\basemesh.h(1639): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+c:\users\shawnzhengxp\desktop\test\thelibs\meshlib\core\mesh\basemesh.h(1723): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+c:\users\shawnzhengxp\desktop\test\thelibs\meshlib\core\mesh\basemesh.h(1766): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+c:\users\shawnzhengxp\desktop\test\thelibs\meshlib\core\mesh\basemesh.h(1766): error C7510: “iterator”: 类型 从属名称的使用必须以“typename”为前缀
+c:\users\shawnzhengxp\desktop\test\thelibs\meshlib\core\mesh\basemesh.h(1944): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+c:\users\shawnzhengxp\desktop\test\thelibs\meshlib\core\mesh\boundary.h(224): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+c:\users\shawnzhengxp\desktop\test\thelibs\meshlib\core\mesh\boundary.h(224): error C7510: “iterator”: 类型 从属名称的使用必须以“typename”为前缀
+c:\users\shawnzhengxp\desktop\test\thelibs\meshlib\core\mesh\boundary.h(266): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+c:\users\shawnzhengxp\desktop\test\test\main.cpp(11): warning C4326: “main”的返回类型应为“int”而非“void”

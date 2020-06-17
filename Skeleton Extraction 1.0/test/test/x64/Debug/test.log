@@ -1,0 +1,25 @@
+﻿  main.cpp
+e:\skeleton extraction 1.0\test\test\element\basemesh.h(844): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\element\basemesh.h(933): error C3861: “cout”: 找不到标识符
+e:\skeleton extraction 1.0\test\test\element\basemesh.h(933): error C3861: “endl”: 找不到标识符
+e:\skeleton extraction 1.0\test\test\element\basemesh.h(1161): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\element\basemesh.h(1204): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\element\basemesh.h(1407): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\element\basemesh.h(1511): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\element\basemesh.h(1631): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\element\basemesh.h(1706): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\element\basemesh.h(1776): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\element\basemesh.h(1819): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\element\basemesh.h(1819): error C7510: “iterator”: 类型 从属名称的使用必须以“typename”为前缀
+e:\skeleton extraction 1.0\test\test\element\basemesh.h(1997): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\element\boundary.h(224): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\element\boundary.h(224): error C7510: “iterator”: 类型 从属名称的使用必须以“typename”为前缀
+e:\skeleton extraction 1.0\test\test\element\boundary.h(266): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\solution\tool.h(123): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\solution\tool.h(145): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\solution\tool.h(156): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\solution\tool.h(181): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\solution\tool.h(195): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\solution\tool.h(215): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\solution\tool.h(260): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“;”
+e:\skeleton extraction 1.0\test\test\main.cpp(8): warning C4326: “main”的返回类型应为“int”而非“void”

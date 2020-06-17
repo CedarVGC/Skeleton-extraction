@@ -1,0 +1,13 @@
+﻿  ConsoleApplication2.cpp
+c:\users\asus\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(70): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\asus\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(83): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(85): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\asus\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(89): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(91): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(96): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\asus\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(97): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\asus\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(110): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(114): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(117): warning C4018: “<”: 有符号/无符号不匹配
+  ConsoleApplication2.vcxproj -> C:\Users\ASUS\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
